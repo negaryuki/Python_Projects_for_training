@@ -52,6 +52,6 @@ print(account2.deposit(100))     # Output: Deposited 100. New balance: 600
 print(account2.withdraw(800))    # Output: Insufficient funds
 print(account2.get_balance())    # Output: Current balance: 600
 
-print(account1.deposit(200))     # Suggested by a friend
+print(account1.deposit(-300))     # Suggested by a friend
 
 

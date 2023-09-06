@@ -42,6 +42,7 @@ class BankAccount:
 account1 = BankAccount("12345", "Negar", 1000)
 account2 = BankAccount("67890", "Angela", 500)
 
+
 # Perform operations on accounts
 print(account1.deposit(200))     # Output: Deposited 200. New balance: 1200
 print(account1.withdraw(300))    # Output: Withdrew 300. New balance: 900
@@ -50,4 +51,7 @@ print(account1.get_balance())    # Output: Current balance: 900
 print(account2.deposit(100))     # Output: Deposited 100. New balance: 600
 print(account2.withdraw(800))    # Output: Insufficient funds
 print(account2.get_balance())    # Output: Current balance: 600
+
+print(account1.deposit(200))     # Suggested by a friend
+
 

@@ -6,10 +6,7 @@ This Python program takes an integer array sorted in non-decreasing order and re
 
 - [Problem Statement](#problem-statement)
 - [Examples](#examples)
-- [How to Use](#how-to-use)
-- [Solution Explanation](#solution-explanation)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Problem Statement
 
